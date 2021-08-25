@@ -17,8 +17,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-# SCREENSHOT 
+# SCREEN
 <img src="https://cdn.discordapp.com/attachments/545664726416359441/880055887400681553/unknown.png">
+<img src="https://media.discordapp.net/attachments/545664726416359441/880056155827761182/unknown.png">
+<img src="https://media.discordapp.net/attachments/545664726416359441/880056483788783656/unknown.png">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
